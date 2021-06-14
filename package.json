@@ -10,6 +10,9 @@
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"url": "https://github.com/zhanghnet9/zmy-file-tools.git"
+	},
 	"activationEvents": [
 		"onCommand:zmy-file-tools.helloWorld"
 	],
